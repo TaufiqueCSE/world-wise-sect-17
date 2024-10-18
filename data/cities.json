@@ -1,18 +1,6 @@
 {
   "cities": [
     {
-      "cityName": "Madrid",
-      "country": "Spain",
-      "emoji": "🏳️‍🌈",
-      "date": "2027-07-15T08:22:53.976Z",
-      "notes": "",
-      "position": {
-        "lat": 40.46635901755316,
-        "lng": -3.7133789062500004
-      },
-      "id": 17806751
-    },
-    {
       "cityName": "Shahdaura",
       "country": "India",
       "emoji": "🇮🇳",
@@ -47,6 +35,42 @@
         "lng": "77.41607788316144"
       },
       "id": 98443220
+    },
+    {
+      "cityName": "Karsamaki",
+      "country": "Finland",
+      "emoji": "🇫🇮",
+      "date": "2024-10-18T11:37:01.431Z",
+      "notes": "",
+      "position": {
+        "lat": "64.0208744070121",
+        "lng": "25.942242365976256"
+      },
+      "id": 98443222
+    },
+    {
+      "cityName": "Bom Jesus do Tocantins",
+      "country": "Brazil",
+      "emoji": "🇧🇷",
+      "date": "2024-10-18T11:37:19.191Z",
+      "notes": "",
+      "position": {
+        "lat": "-5.087716253624317",
+        "lng": "-48.50805097529915"
+      },
+      "id": 98443223
+    },
+    {
+      "cityName": "Wood Buffalo",
+      "country": "Canada",
+      "emoji": "🇨🇦",
+      "date": "2024-10-18T11:37:35.870Z",
+      "notes": "",
+      "position": {
+        "lat": "56.17734720430948",
+        "lng": "-112.12806230679067"
+      },
+      "id": 98443224
     }
   ]
 }
