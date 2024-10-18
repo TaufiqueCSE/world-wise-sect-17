@@ -1,17 +1,5 @@
 {
-  "cities":[
-    {
-      "cityName": "Lisbon",
-      "country": "Portugal",
-      "emoji": "🏳️‍⚧️",
-      "date": "2027-10-31T15:59:59.138Z",
-      "notes": "My favorite city so far!",
-      "position": {
-        "lat": 38.727881642324164,
-        "lng": -9.140900099907554
-      },
-      "id": 73930385
-    },
+  "cities": [
     {
       "cityName": "Madrid",
       "country": "Spain",
@@ -25,40 +13,40 @@
       "id": 17806751
     },
     {
-      "cityName": "Berlin",
-      "country": "Germany",
-      "emoji": "🏳️",
-      "date": "2027-02-12T09:24:11.863Z",
-      "notes": "Amazing 😃",
-      "position": {
-        "lat": 52.53586782505711,
-        "lng": 13.376933665713324
-      },
-      "id": 98443197
-    },
-    {
-      "cityName": "Mumbai",
+      "cityName": "Shahdaura",
       "country": "India",
-      "emoji": "🎌",
-      "date": "2027-07-15T08:22:53.976Z",
+      "emoji": "🇮🇳",
+      "date": "2024-10-18T06:37:57.792Z",
       "notes": "",
       "position": {
-        "lat": 40.46635901755316,
-        "lng": -3.7133789062500004
+        "lat": "24.56742751972737",
+        "lng": "77.56227086720445"
       },
-      "id": 178061
+      "id": 98443218
     },
     {
-      "cityName": "Delhi",
+      "cityName": "Tikamgarh",
       "country": "India",
-      "emoji": "⛳",
-      "date": "2027-02-12T09:24:11.863Z",
-      "notes": "Amazing 😃",
+      "emoji": "🇮🇳",
+      "date": "2024-10-18T06:39:30.854Z",
+      "notes": "test",
       "position": {
-        "lat": 52.53586782505711,
-        "lng": 13.376933665713324
+        "lat": "24.623123438767394",
+        "lng": "78.8062250920264"
       },
-      "id": 443197
+      "id": 98443219
+    },
+    {
+      "cityName": "Bhopal",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2024-10-18T10:13:23.463Z",
+      "notes": "",
+      "position": {
+        "lat": "23.212210489585548",
+        "lng": "77.41607788316144"
+      },
+      "id": 98443220
     }
   ]
 }
